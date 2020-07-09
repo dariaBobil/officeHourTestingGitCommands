@@ -17,5 +17,7 @@ public class stepDefinitions {
         System.out.println(printLogs("Daria"));
 
         //please add copy of above line with your name below
+
+        System.out.println(printLogs("Daria in daria branch"));
     }
 }
