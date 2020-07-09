@@ -15,6 +15,7 @@ public class stepDefinitions {
     public void participantsAreAddingLogs() {
 
         System.out.println(printLogs("Daria"));
+        System.out.println(printLogs("Nurjana"));
 
         //please add copy of above line with your name below
     }
