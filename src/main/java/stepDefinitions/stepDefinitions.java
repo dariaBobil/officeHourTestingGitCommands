@@ -19,6 +19,7 @@ public class stepDefinitions {
         //please add copy of above line with your name below
 
         System.out.println(printLogs("Daria in daria branch"));
-        System.out.println(printLogs("Daria 2 in daria branch"));
-    }
+                System.out.println(printLogs("Daria 2 in daria branch"));
+        System.out.println(printLogs("For Nurjan branch"));
+                }
 }
